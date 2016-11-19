@@ -1,2 +1,3 @@
 # hello-world
-primer repositorio cuenta ub
+
+Estudiante candiato a Doctor en Ciencia Política de la Universitat de Barcelona
